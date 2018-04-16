@@ -1,5 +1,5 @@
 # larashop
-
+  商城后台管理系统
   线上地址：root.lara-shop.cn
   多商家版: root.laravel-world.com
   体验账号私信获取
