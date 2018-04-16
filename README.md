@@ -1,10 +1,9 @@
 # larashop
 
-## 组件说明
-  menuNav 头部菜单和左侧菜单组件  
-  crumb 作为第三极菜单里面的弹出页面包屑导航 用来清晰流程  
-  hint 每一个三级页面的提示警告说明组件  
-  page 分页组件
+  线上地址：root.lara-shop.cn
+  多商家版: root.laravel-world.com
+  体验账号私信获取
+  多商家版商家中心: seller.laravel-world.com 体验账号：qqq 密码：Admin{}123.
 
 > A Vue.js project
 
